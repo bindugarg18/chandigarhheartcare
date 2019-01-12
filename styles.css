@@ -1,0 +1,144 @@
+body {
+  font-family: 'Montserrat', sans-serif;
+  margin: 0;
+}
+
+h5 {
+  padding: 2rem;
+}
+
+h4 {
+  font-size: 1.75rem;
+}
+
+h3 {
+  font-family: 'Montserrat-bold', sans-serif;
+  font-size: 1.5rem;
+}
+
+p {
+  padding-left: 15%;
+  padding-right: 15%;
+  padding-bottom: 2rem;
+  line-height: 2;
+}
+
+/* Header */
+#header {
+  background-color: #0C579A;
+}
+
+.navbar {
+  /* padding: 1rem; */
+}
+
+.navbar-brand {
+  font-family: 'Montserrat-black', sans-serif;
+  font-size: 2rem;
+}
+
+.nav-item {
+  font-family: 'Montserrat-bold', sans-serif;
+  padding: 0.5rem;
+}
+
+.btn {
+  background-color: #deecfc;
+}
+
+/* Carousel Section */
+#carousel {
+  background: url(../images/background-1.jpg) no-repeat center;
+  background-size: cover;
+}
+
+.rows {
+  width: 65%;
+  padding: 2rem;
+  margin: 0 auto 1rem;
+  /* color: #fff; */
+}
+
+.carousel-image {
+  height: 100%;
+  width: 100%;
+}
+
+/* Appointments Section*/
+#Appointments {
+  background-color: #0C579A;
+  color: #fff;
+  text-align: center;
+}
+
+.list-group-item {
+  background-color: #0C579A;
+  /* background:transparent; */
+}
+
+.Emergency-contact {
+  font-size: 1.5rem;
+}
+
+/* Services Section */
+#services {
+  text-align: center;
+  width: 100%;
+  background: url(../images/testi.jpg) no-repeat center;
+  background-size: cover;
+}
+
+#services .container-fluid{
+  width: 80%;
+}
+
+#services h4{
+  padding-top: 2rem;
+}
+
+#services h3{
+  padding-top: 1rem;
+}
+
+#services .services-title{
+  font-family: 'Montserrat-bold', sans-serif;
+  font-size: 1.5rem;
+}
+
+/* Testimonial Section */
+
+#testimonials {
+  background-color: #0C579A;
+  text-align: center;
+  color: #fff;
+}
+
+#testimonials .testi-title{
+  padding-top: 2rem;
+  font-family: 'Montserrat-bold', sans-serif;
+  font-size: 3rem;
+}
+
+#testimonials .container-fluid{
+  padding: 5% 7%;
+}
+
+.testimonial-text {
+  font-size: 2rem;
+  line-height: 1.5;
+}
+
+.testimonial-image {
+  width: 10%;
+  border-radius: 100%;
+  margin: 20px;
+}
+
+/* Footer Section */
+.footer-div{
+  padding-top: 2%;
+  text-align: center;
+}
+.social-icon {
+  margin: 10px 10px;
+}
